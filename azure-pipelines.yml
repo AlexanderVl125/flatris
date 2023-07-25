@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+pool: Hrnt125 Pool
 
 steps:
 - task: NodeTool@0
